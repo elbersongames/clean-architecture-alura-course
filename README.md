@@ -1,6 +1,6 @@
 # CLEAN ARCHITECTURE STUDIES
 
-This project is the resources of my course (not finished yes): Clean Architecture 
+This project is the resources of my [not finished] course: Clean Architecture 
 in [Alura](https://alura.com.br).
 
 There's a lot of knowledge that this course is proving me.\
